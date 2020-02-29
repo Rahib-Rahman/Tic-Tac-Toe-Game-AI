@@ -12,10 +12,12 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 
-/**
- *
+/*
+ * 
  * @author Sheikh Md. Rahibur Rahman
+ *
  */
+
 public class Game {
 
     GameState gameState = new GameState();
