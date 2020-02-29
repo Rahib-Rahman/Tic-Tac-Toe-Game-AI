@@ -2,9 +2,10 @@ package tictactoeminimax;
 
 import java.util.LinkedList;
 
-/**
- *
+/*
+ * 
  * @author Sheikh Md. Rahibur Rahman
+ *
  */
 
 public class GameState {
