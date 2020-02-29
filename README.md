@@ -1,1 +1,1 @@
-A two player Tic-Tac-Toe game 
+A two player Tic-Tac-Toe game with MinMax Algorithm.
